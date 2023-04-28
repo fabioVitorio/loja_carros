@@ -1,5 +1,9 @@
 ## Loja virtual de venda de carros<img align="center" alt="Rafa-HTML" height="35" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 Loja virtual feita em Java na plataforma Netbeans utilizando os quatro pilares da Orientação a Objetos.
+<br> <br>
+✅POO <br>
+✅Metodologias ágeis <br>
+✅Diagramas UML <br>
 ## *Sistema*
 ![img1](https://user-images.githubusercontent.com/109548564/210189963-d2e45117-4998-4c11-a9c5-835d5032b667.PNG)
 ##
