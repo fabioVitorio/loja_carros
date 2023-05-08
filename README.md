@@ -4,6 +4,7 @@ Loja virtual feita em Java na plataforma Netbeans utilizando os quatro pilares d
 ✅POO <br>
 ✅Metodologias ágeis <br>
 ✅Diagramas UML <br>
+✅Documentação <br>
 ## ⚙️ *Sistema*
 ![img1](https://user-images.githubusercontent.com/109548564/210189963-d2e45117-4998-4c11-a9c5-835d5032b667.PNG)
 ##
