@@ -1,9 +1,9 @@
 ## ⚙️ *Loja virtual de venda de carros*
-✅POO <br>
-✅Metodologias ágeis <br>
-✅Diagramas UML <br>
-✅Documentação <br>
-✅Java
+>✅POO <br>
+>✅Metodologias ágeis <br>
+>✅Diagramas UML <br>
+>✅Documentação <br>
+>✅Java
 
 <div>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=loja_carros"/>
