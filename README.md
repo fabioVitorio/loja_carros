@@ -1,11 +1,16 @@
-## Loja virtual de venda de carros<img align="center" alt="Rafa-HTML" height="35" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-Loja virtual feita em Java na plataforma Netbeans utilizando os quatro pilares da Orientação a Objetos.
-<br> <br>
+## ⚙️ *Loja virtual de venda de carros*
 ✅POO <br>
 ✅Metodologias ágeis <br>
 ✅Diagramas UML <br>
 ✅Documentação <br>
-## ⚙️ *Sistema*
+✅Java
+
+<div>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=loja_carros"/>
+  <a href="https://github.com/fabioVitorio">
+</div>
+  
+## 💻 *Sistema*
 ![img1](https://user-images.githubusercontent.com/109548564/210189963-d2e45117-4998-4c11-a9c5-835d5032b667.PNG)
 ##
 ![img2](https://user-images.githubusercontent.com/109548564/210189964-2b650b91-9c69-4211-8268-797a053973bf.PNG)
