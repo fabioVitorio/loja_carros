@@ -1,9 +1,21 @@
-## ⚙️ *Loja virtual de venda de carros*
->✅POO <br>
->✅Metodologias ágeis <br>
->✅Diagramas UML <br>
->✅Documentação <br>
->✅Java
+### <p align='center'> ![logo_menu](https://github.com/fabioVitorio/barber_shop/assets/109548564/c33dca05-06d3-452c-a6bc-479e044ccc75) </p>
+<br>
+<p align='center'> Flow control and customer scheduling system in a barber shop <br></p>
+
+##
+### ⚙️ Installation
+```bash
+~
+```
+##
+#### Skills
+- ⚙️ OOP <br>
+- 🔖 SCRUM <br>
+- 📒 UML diagrams <br>
+ #### Technologies
+- 🟢 Java <br>
+
+
 
 <div>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=loja_carros"/>
