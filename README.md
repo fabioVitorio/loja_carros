@@ -1,6 +1,6 @@
-### <p align='center'> ![logo_menu](https://github.com/fabioVitorio/barber_shop/assets/109548564/c33dca05-06d3-452c-a6bc-479e044ccc75) </p>
+### <p align='center'> ![lgo](https://github.com/fabioVitorio/loja_carros/assets/109548564/af12cd1e-248b-40ac-a358-1bb729ba5c87) </p>
 <br>
-<p align='center'> Flow control and customer scheduling system in a barber shop <br></p>
+<p align='center'> Online store for sales and payment simulations for imported cars <br></p>
 
 ##
 ### ⚙️ Installation
@@ -13,7 +13,7 @@
 - 🔖 SCRUM <br>
 - 📒 UML diagrams <br>
  #### Technologies
-- 🟢 Java <br>
+- 🟤 Java <br>
 
 
 
