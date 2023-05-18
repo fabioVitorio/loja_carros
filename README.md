@@ -1,4 +1,4 @@
-### <p align='center'> ![lgo](https://github.com/fabioVitorio/loja_carros/assets/109548564/af12cd1e-248b-40ac-a358-1bb729ba5c87) </p>
+### <p align='center'> <img src="https://github.com/fabioVitorio/loja_carros/assets/109548564/af12cd1e-248b-40ac-a358-1bb729ba5c87" width="250"/> </p>
 <br>
 <p align='center'> Online store for sales and payment simulations for imported cars <br></p>
 
