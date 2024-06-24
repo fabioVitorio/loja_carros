@@ -5,7 +5,12 @@
 ##
 ### ⚙️ Installation
 ```bash
-~
+To run the project from the command line, go to the dist folder and
+type the following:
+
+java -jar "TelaLogin.jar"
+
+java version 16+
 ```
 ##
 #### Skills
