@@ -10,7 +10,7 @@ type the following:
 
 java -jar "TelaLogin.jar"
 
-java version 16+
+java version ^16
 ```
 ##
 #### Skills
